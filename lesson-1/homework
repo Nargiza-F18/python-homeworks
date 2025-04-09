@@ -1,0 +1,11 @@
+# side_length = float(input("5"))
+# perimeter, area = square_properties(side_length)
+# print(f"20 {perimeter}")
+# print(f"25 {area}")
+
+
+# question 3
+
+a=input()
+b=input()
+print (a+b)
